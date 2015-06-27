@@ -1,0 +1,28 @@
+{
+    "name"         : "cb-logger",
+    "version"      : "1.0.0",
+    "description"  : "Application logger for Cobolab Application",
+    "main"         : "index.js",
+    "scripts"      : {
+        "test" : "node test"
+    },
+    "repository"   : {
+        "type" : "git",
+        "url"  : "git+https://github.com/cobolab/cb-logger.git"
+    },
+    "keywords"     : [
+        "cobolab",
+        "application",
+        "logger"
+    ],
+    "author"       : "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
+    "license"      : "MIT",
+    "bugs"         : {
+        "url" : "https://github.com/cobolab/cb-logger/issues"
+    },
+    "homepage"     : "https://github.com/cobolab/cb-logger#readme",
+    "dependencies" : {
+        "colors"    : "^1.1.0",
+        "native-js" : "^1.2.0"
+    }
+}
