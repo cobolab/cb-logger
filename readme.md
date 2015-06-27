@@ -38,6 +38,14 @@ var foo = function() {
 ```
 
 ***
+## **Options**
+
+- **`enabled`** - Enable print logs on console. Default is **`true`**
+- **`logtime`** - Enable print and write logs including date-time. Default is **`true`**
+- **`logfile`** - Enable save logs to file. Default is **`false`**.
+- **`logpath`** - Location to save the log file. Default is **`./logs`**
+
+***
 ## **Methods**
 
 ### **`.info(title, message)`**
