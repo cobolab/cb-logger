@@ -1,7 +1,9 @@
 # **Cobolab Logger**
 ---
 
-A small NodeJS module to logs application activities with colored text and automatically save the logs to file. 
+A small NodeJS module to logs application activities with colored text and automatically save the logs to file.
+
+![CBLogger](https://raw.githubusercontent.com/Cobolab/cb-logger/master/ss.png)
 
 ***
 ## **Usage**
